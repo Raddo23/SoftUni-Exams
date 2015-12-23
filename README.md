@@ -1,2 +1,1 @@
-# SoftUni-Exams
-C sharp and other languages
+# C-Sharp-Exam-Preparation

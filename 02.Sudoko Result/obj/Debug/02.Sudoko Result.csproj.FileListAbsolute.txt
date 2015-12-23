@@ -1,0 +1,6 @@
+F:\C#\C# Scool\Exam Preparation 01\02.Sudoko Result\bin\Debug\02.Sudoko Result.exe.config
+F:\C#\C# Scool\Exam Preparation 01\02.Sudoko Result\obj\Debug\02.Sudoko Result.csprojResolveAssemblyReference.cache
+F:\C#\C# Scool\Exam Preparation 01\02.Sudoko Result\bin\Debug\02.Sudoko Result.exe
+F:\C#\C# Scool\Exam Preparation 01\02.Sudoko Result\bin\Debug\02.Sudoko Result.pdb
+F:\C#\C# Scool\Exam Preparation 01\02.Sudoko Result\obj\Debug\02.Sudoko Result.exe
+F:\C#\C# Scool\Exam Preparation 01\02.Sudoko Result\obj\Debug\02.Sudoko Result.pdb

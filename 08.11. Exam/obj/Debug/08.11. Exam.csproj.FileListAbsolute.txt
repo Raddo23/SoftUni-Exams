@@ -1,0 +1,6 @@
+F:\C#\C# Scool\Exam Preparation 01\08.11. Exam\bin\Debug\_08._11.Exam.exe.config
+F:\C#\C# Scool\Exam Preparation 01\08.11. Exam\bin\Debug\_08._11.Exam.exe
+F:\C#\C# Scool\Exam Preparation 01\08.11. Exam\bin\Debug\_08._11.Exam.pdb
+F:\C#\C# Scool\Exam Preparation 01\08.11. Exam\obj\Debug\08.11. Exam.csprojResolveAssemblyReference.cache
+F:\C#\C# Scool\Exam Preparation 01\08.11. Exam\obj\Debug\_08._11.Exam.exe
+F:\C#\C# Scool\Exam Preparation 01\08.11. Exam\obj\Debug\_08._11.Exam.pdb
