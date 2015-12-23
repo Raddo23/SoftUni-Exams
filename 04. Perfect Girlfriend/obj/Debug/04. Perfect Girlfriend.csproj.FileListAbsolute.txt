@@ -4,3 +4,6 @@ F:\C#\C# Scool\Exam Preparation 01\04. Perfect Girlfriend\bin\Debug\_04.Perfect_
 F:\C#\C# Scool\Exam Preparation 01\04. Perfect Girlfriend\bin\Debug\_04.Perfect_Girlfriend.pdb
 F:\C#\C# Scool\Exam Preparation 01\04. Perfect Girlfriend\obj\Debug\_04.Perfect_Girlfriend.exe
 F:\C#\C# Scool\Exam Preparation 01\04. Perfect Girlfriend\obj\Debug\_04.Perfect_Girlfriend.pdb
+F:\GitHub\SoftUni-Exams\04. Perfect Girlfriend\bin\Debug\_04.Perfect_Girlfriend.exe.config
+F:\GitHub\SoftUni-Exams\04. Perfect Girlfriend\obj\Debug\_04.Perfect_Girlfriend.exe
+F:\GitHub\SoftUni-Exams\04. Perfect Girlfriend\obj\Debug\_04.Perfect_Girlfriend.pdb

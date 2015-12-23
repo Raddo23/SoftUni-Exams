@@ -7,3 +7,9 @@ F:\C#\C# Scool\Exam Preparation 01\08.11. Exam\obj\Debug\_08._11.Exam.pdb
 E:\GitHub\SoftUni-Exams\08.11. Exam\bin\Debug\_08._11.Exam.exe.config
 E:\GitHub\SoftUni-Exams\08.11. Exam\obj\Debug\_08._11.Exam.exe
 E:\GitHub\SoftUni-Exams\08.11. Exam\obj\Debug\_08._11.Exam.pdb
+F:\GitHub\SoftUni-Exams\08.11. Exam\bin\Debug\_08._11.Exam.exe.config
+F:\GitHub\SoftUni-Exams\08.11. Exam\obj\Debug\_08._11.Exam.exe
+F:\GitHub\SoftUni-Exams\08.11. Exam\obj\Debug\_08._11.Exam.pdb
+F:\GitHub\SoftUni-Exams\08.11. Exam\bin\Debug\_08._11.Exam.exe
+F:\GitHub\SoftUni-Exams\08.11. Exam\bin\Debug\_08._11.Exam.pdb
+F:\GitHub\SoftUni-Exams\08.11. Exam\obj\Debug\08.11. Exam.csprojResolveAssemblyReference.cache

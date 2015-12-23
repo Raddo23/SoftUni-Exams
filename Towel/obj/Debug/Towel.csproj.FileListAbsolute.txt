@@ -1,1 +1,6 @@
 F:\C#\C# Scool\Exam Preparation 01\Towel\bin\Debug\Towel.exe.config
+F:\GitHub\SoftUni-Exams\Towel\bin\Debug\Towel.exe.config
+F:\GitHub\SoftUni-Exams\Towel\bin\Debug\Towel.exe
+F:\GitHub\SoftUni-Exams\Towel\bin\Debug\Towel.pdb
+F:\GitHub\SoftUni-Exams\Towel\obj\Debug\Towel.exe
+F:\GitHub\SoftUni-Exams\Towel\obj\Debug\Towel.pdb
